@@ -1,6 +1,6 @@
 # portfolio_app
 
-A portfolio web app made in flutter.
+A portfolio web app made using flutter.
 
 #### Known Issue
-This project has laggy scrolling issue when tried on an android device browser.
+This project has laggy scrolling issue when used on an android device browser.
