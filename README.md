@@ -1,12 +1,12 @@
 Portfolio
 
-## Portfolio Webapp
+## Portfolio Website
 This is a responsive portfolio website made using Flutter web.
 
-### Deployed
+## Deployed
 Visit this at : http://shubhamkumar.tech
 
-### How it looks?
+## How it looks?
 <img src="assets/717.jpg"/>
 
 #### :heart: Found this project useful?
