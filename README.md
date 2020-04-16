@@ -1,5 +1,3 @@
-# shubham
-
 Portfolio
 
 ## Getting Started
